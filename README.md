@@ -6,9 +6,9 @@ A simple weather app built using HTML, CSS, and JavaScript that provides current
 ## Features 🚀
 * Search for weather information by city name 🔍
 * Displays current weather data in three sections:
-	+ Temperature: Current, Minimum, Maximum 🌡
-	+ Humidity: Current humidity percentage, Feels like 💧
-	+ Wind: Sunrise time, Sunset time, Wind degree, Wind speed 💨
+	+ Temperature Information: Current Temperature, Minimum Temperature, Maximum Temperature 🌡
+	+ Humidity Information: Current humidity %, Feels like temperature 💧
+	+ Wind Information: Sunrise time, Sunset time, Wind degree, Wind speed 💨
 
 ## Technologies Used 💻
 * **HTML**: For structuring the app's UI 🏗
