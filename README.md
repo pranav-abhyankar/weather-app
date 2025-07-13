@@ -14,7 +14,7 @@ A simple weather app built using HTML, CSS, and JavaScript that provides current
 * **HTML**: For structuring the app's UI 🏗
 * **CSS**: For styling the app's UI 🎨
 * **JavaScript**: For fetching data from the weather API and updating the UI 📊
-* **Free Weather API**: For providing current weather data ☁
+* **Free Weather API**: For providing current weather data and other weather related information ☁
 
 ## How to Use 📚
 1. Clone the repository: `git clone https://github.com/pranav-abhyankar/weather-app.git` 📁
